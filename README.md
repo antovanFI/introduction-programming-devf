@@ -23,4 +23,4 @@ Practicar la creación de una página web estática utilizando HTML5, integrando
 Para visualizar este proyecto localmente:
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/antovanFI/introduction-programming-devf](https://github.com/antovanFI/introduction-programming-devf)
+   git clone https://github.com/antovanFI/introduction-programming-devf
